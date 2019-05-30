@@ -1,0 +1,33 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="grid">
+        <div class="row">
+          {{ range (where .Data.Pages "Section" "portfolio") }}
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 isotope-item">
+                  <div class="box-isotope">
+                      {{ if and (isset .Params "image") .Params.image }}
+                        {{ if eq .Params.showonlyimage true }}
+                        <a href="{{ .Params.image }}" title=""> <!-- class="box-isotope-image with-hover-overlay"> -->
+                        {{ else }}
+                        <a href="{{ .Params.image }}" title=""> <!-- class="box-isotope-image with-hover-overlay with-hover-icon"> -->
+                        {{ end }}
+                            <img src="{{ .Params.image }}" alt="" class="img-responsive">
+                        </a>
+                      {{ end }}
+                      {{ if eq .Params.showonlyimage true }}
+                      <div class="box-isotope-hover-text-header">
+                      {{ else }}
+                      <div class="box-isotope-text">
+                      {{ end }}
+                        <!--  <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+
+                          <div class="box-isotope-description">
+                              <p>{{ .Summary }}</p>
+                          </div> -->
+                      </div>
+                  </div>
+              </div>
+          {{ end }}
+        </div>
+    </div>
+</div>
