@@ -38,7 +38,7 @@ googleAnalytics = ""
   url = ""
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Email"
   url = "contact/"
 
   [params.social]
