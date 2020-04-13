@@ -38,6 +38,10 @@ googleAnalytics = ""
   url = ""
 
   [[params.navlinks]]
+  name = "Blog"
+  url = "https://andrew-werner.netlify.com/"
+
+  [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
