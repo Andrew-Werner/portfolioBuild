@@ -38,13 +38,10 @@ googleAnalytics = ""
   url = ""
 
   [[params.navlinks]]
-  name = "Blog"
-  url = "https://andrew-werner.netlify.com/"
-
-  [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
   [params.social]
   email         = "andrew.stephen.werner@gmail.com"
   github        = "https://github.com/andrew-werner"
+  instagram     = "https://instagram.com/croatian_andrew"

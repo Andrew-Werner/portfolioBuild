@@ -5,6 +5,7 @@
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
     <ul class="sidebar-menu">
+      <li><a href="https://andrew-werner.netlify.com/">Blog</a></li>
       {{ $url := .Site.BaseURL }}
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
