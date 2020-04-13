@@ -1,4 +1,4 @@
-baseURL = "https://andrew-werner.github.io/"
+baseURL = "https://aw-portfolio.netlify.com"
 title = "Andrew Werner"
 theme = "portfolio"
 disableLiveReload = false
