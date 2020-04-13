@@ -7,3 +7,5 @@ fields:
   config:
     maxSize: 250
   label: pic
+pages:
+- content/portfolio/11.md
