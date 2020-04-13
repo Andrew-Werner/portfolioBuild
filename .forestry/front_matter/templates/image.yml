@@ -12,5 +12,5 @@ pages:
 - content/portfolio/12.md
 - content/portfolio/13.md
 - content/portfolio/14.md
-- content/portfolio/15.md
 - content/portfolio/4.md
+- content/portfolio/:filename:.md
