@@ -1,0 +1,10 @@
+---
+label: image via text
+hide_body: true
+fields:
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: file
+  name: image
+  label: image
