@@ -1691,6 +1691,18 @@ hr {
     text-align: center;
   }
 }
+
+
+
+.sidebar-p {
+  color: #aba!important;
+  font-size: 14px;
+}
+p {
+    color: #e83b3b!important;
+}
+
+
 /* buttons  */
 .btn {
   font-weight: 400;
