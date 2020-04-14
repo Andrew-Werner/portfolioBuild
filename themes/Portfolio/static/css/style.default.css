@@ -1705,7 +1705,7 @@ p {
     color: #9b4fff!important;
 }
 p.social a {
-    color: #9b4fff!important;
+    border: solid 1px #9b4fff!important;
 }
 
 /* buttons  */
