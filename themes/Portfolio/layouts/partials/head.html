@@ -1,12 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-STL3Q5W30L"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-STL3Q5W30L');
-</script>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {{ with .Title }}<title>{{ . }}</title>{{ end }}
@@ -29,7 +21,7 @@
     <![endif]-->
   ` | safeHTML }}
 
-<link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
+<link rel="shortcut icon" href="{{ "favicon.ico" | absURL }}">
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
