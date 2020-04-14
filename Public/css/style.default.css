@@ -357,14 +357,14 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
-  color: #b4ff00;
+  color: #aaa!important;
   font-size: 14px;
 }
 p {
-    color: #e83b3b;
+    color: #e83b3b!important;
 }
 .sidebar-menu li a {
-    color: #ff7600;
+    color: #ff7600!important;
 }
 .sidebar-menu {
   list-style-type: none;
