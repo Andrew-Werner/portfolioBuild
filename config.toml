@@ -1,4 +1,4 @@
-baseURL = "https://andrew-werner.github.io/"
+baseURL = "https://drew.haus/"
 title = "Andrew Werner"
 theme = "portfolio"
 disableLiveReload = false
