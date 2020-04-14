@@ -1699,9 +1699,14 @@ hr {
   font-size: 14px;
 }
 p {
-    color: #e83b3b!important;
+    color: #9b4fff!important;
 }
-
+.copyright p.credit a {
+    color: #aba!important;
+}
+p.social a {
+    color: #9b4fff!important;
+}
 
 /* buttons  */
 .btn {
