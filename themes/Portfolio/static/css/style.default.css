@@ -674,24 +674,14 @@ COPYRIGHT
 */
 .copyright {
   color: #666666;
-  font-size: 13px;
-  text-align: left;
+  font-size: smaller;
+  text-align: right;
 }
 .copyright p.credit {
   margin-bottom: 10px;
 }
 .copyright p.credit a {
   color: #666666;
-}
-@media (max-width: 991px) {
-  .copyright p.credit {
-    text-align: center !important;
-  }
-}
-@media (max-width: 991px) {
-  .copyright {
-    text-align: center !important;
-  }
 }
 /*
 
