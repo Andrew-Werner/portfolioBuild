@@ -676,6 +676,7 @@ COPYRIGHT
   color: #666666;
   font-size: x-small;
   text-align: right;
+  white-space: pre-wrap;
 }
 .copyright p.credit {
   margin-bottom: 10px;
