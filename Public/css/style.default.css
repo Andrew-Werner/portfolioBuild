@@ -364,13 +364,14 @@ p {
     color: #e83b3b!important;
 }
 .sidebar-menu {
-  list-style-type: none;
+  list-style-type: simp-chinese-informal;;
   padding-left: 20px;
   margin-bottom: 24px;
   text-align: left;
 }
 .sidebar-menu li {
   margin-bottom: 5px;
+  text-align: left!important;
 }
 .sidebar-menu li:before {
   font-family: 'FontAwesome';
