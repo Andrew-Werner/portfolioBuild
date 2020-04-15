@@ -689,7 +689,18 @@ COPYRIGHT
 .copyright p.credit a {
   color: #666666;
 }
-
+@media (max-width: 991px) {
+  .copyright p.credit {
+    text-align: right !important;
+    font-size: smaller;
+  }
+}
+@media (max-width: 991px) {
+  .copyright {
+    text-align: right !important;
+    font-size: smaller;
+  }
+}
 /*
 
 =====================
