@@ -332,7 +332,7 @@ SIDEBAR + RIGHT COLUMN
     width: inherit;
     z-index: 0;
     padding: 0 2em 0 1.5em;
-    text-align: right;
+    text-align: left;
 }
 .sidebar-heading {
   font-size: 18px;
