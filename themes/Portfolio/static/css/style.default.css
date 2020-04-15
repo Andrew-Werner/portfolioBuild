@@ -332,6 +332,7 @@ SIDEBAR + RIGHT COLUMN
     width: inherit;
     z-index: 0;
     padding: 0 2em 0 1.5em;
+    text-align: right;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
@@ -364,7 +365,6 @@ SIDEBAR + RIGHT COLUMN
   list-style-type: none;
   padding-left: 20px;
   margin-bottom: 24px;
-  text-align: right;
 }
 .sidebar-menu li {
   margin-bottom: 5px;
