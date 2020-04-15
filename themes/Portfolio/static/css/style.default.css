@@ -365,8 +365,6 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-menu li {
   margin-bottom: 5px;
-  padding-left: 0.5rem;
-  padding-right: 2rem;
   text-align: right;
 }
 .sidebar-menu li a {
@@ -678,6 +676,7 @@ COPYRIGHT
 .copyright {
   color: #666666;
   font-size: 13px;
+  text-align: left;
 }
 .copyright p.credit {
   margin-bottom: 10px;
