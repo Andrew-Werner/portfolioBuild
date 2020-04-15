@@ -360,6 +360,8 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-p {
   color: #666666;
   font-size: 14px;
+  padding-left: 0.5rem;
+  padding-right: 1.5rem;
 }
 .sidebar-menu {
   list-style-type: none;
