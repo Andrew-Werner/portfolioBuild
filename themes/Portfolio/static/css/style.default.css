@@ -341,7 +341,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading a {
   color: #FFF;
-  text-decoration: trad-chinese-informal;
+  text-decoration: none;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -357,7 +357,7 @@ SIDEBAR + RIGHT COLUMN
   padding-left: 0.5rem;
 }
 .sidebar-menu {
-  list-style-type: none;
+  list-style-type: trad-chinese-informal;
   padding-left: 0.5rem;
   margin-bottom: 24px;
   padding-right: 0.66rem;
