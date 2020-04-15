@@ -357,7 +357,7 @@ SIDEBAR + RIGHT COLUMN
   padding-left: 0.5rem;
 }
 .sidebar-menu {
-  list-style-type: trad-chinese-informal;
+  list-style-type: circle;
   padding-left: 0.5rem;
   margin-bottom: 24px;
   padding-right: 0.66rem;
@@ -674,9 +674,8 @@ COPYRIGHT
 */
 .copyright {
   color: #666666;
-  font-size: x-small;
+  font-size: xx-small;
   text-align: right;
-  white-space: pre-wrap;
 }
 .copyright p.credit {
   margin-bottom: 10px;
