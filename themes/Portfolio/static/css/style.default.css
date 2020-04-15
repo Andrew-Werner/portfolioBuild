@@ -341,7 +341,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading a {
   color: #FFF;
-  text-decoration: lao;
+  text-decoration: trad-chinese-informal;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
