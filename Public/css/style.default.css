@@ -332,6 +332,7 @@ SIDEBAR + RIGHT COLUMN
     width: inherit;
     z-index: 0;
     padding: 0 2em 0 1.5em;
+    text-align: right!important;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
@@ -371,7 +372,7 @@ p {
 }
 .sidebar-menu li {
   margin-bottom: 5px;
-  text-align: left!important;
+  text-align: right!important;
 }
 .sidebar-menu li:before {
   font-family: 'FontAwesome';
@@ -679,7 +680,7 @@ COPYRIGHT
 .copyright {
   color: #666666;
   font-size: 13px;
-  text-align: left !important;
+  text-align: right !important;
   font-size: smaller;
 }
 .copyright p.credit {
