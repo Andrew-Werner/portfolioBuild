@@ -678,6 +678,8 @@ COPYRIGHT
 .copyright {
   color: #666666;
   font-size: 13px;
+  text-align: left !important;
+  font-size: smaller;
 }
 .copyright p.credit {
   margin-bottom: 10px;
@@ -685,18 +687,7 @@ COPYRIGHT
 .copyright p.credit a {
   color: #666666;
 }
-@media (max-width: 991px) {
-  .copyright p.credit {
-    text-align: left !important;
-    font-size: smaller;
-  }
-}
-@media (max-width: 991px) {
-  .copyright {
-    text-align: left !important;
-    font-size: smaller;
-  }
-}
+
 /*
 
 =====================
