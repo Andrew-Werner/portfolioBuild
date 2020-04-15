@@ -15,8 +15,8 @@ googleAnalytics = ""
   description = "My personal portfolio"
   copyright = "&copy;2019 Andrew Werner"
   sidebarAbout = [
-    "I am a college student and former print & graphic designer with experience in IT, music/audio production, photography, and the Adobe suite.",
-    "Fairfield, CT"
+    "Fairfield, CT",
+    "I am a college student and former print & graphic designer with experience in IT, music/audio production, photography, and the Adobe suite."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
