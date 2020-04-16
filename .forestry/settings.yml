@@ -21,7 +21,7 @@ sections:
   match: "**/*"
   templates:
   - image-via-text
-upload_dir: img/portfolio
+upload_dir: static/img/portfolio
 public_path: img/portfolio
 front_matter_path: ''
 use_front_matter_path: false
