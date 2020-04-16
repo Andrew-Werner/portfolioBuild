@@ -19,6 +19,8 @@ sections:
   label: Portfolio
   create: all
   match: "**/*"
+  templates:
+  - image-via-text
 upload_dir: static/img/portfolio
 public_path: static/img/portfolio
 front_matter_path: ''
