@@ -13,10 +13,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "My personal portfolio"
-  copyright = "&copy;2019 Andrew Werner"
+  copyright = "&copy;2021 Andrew Werner"
   sidebarAbout = [
     "Fairfield, CT",
-    "Print graphic designer with experience in IT, music/audio production, photography, and the Adobe suite."
+    "Print graphic designer with experience in IT, photography, and the Adobe suite."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
