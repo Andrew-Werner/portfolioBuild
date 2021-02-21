@@ -12,4 +12,5 @@ fields:
   name: image
   label: image
 pages:
+- content/portfolio/02.md
 - content/portfolio/16.md
