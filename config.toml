@@ -16,7 +16,7 @@ googleAnalytics = ""
   copyright = "&copy;2019 Andrew Werner"
   sidebarAbout = [
     "Fairfield, CT",
-    "I am a print & graphic designer with experience in IT, music/audio production, photography, and the Adobe suite."
+    "A print & graphic designer with experience in IT, music/audio production, photography, and the Adobe suite."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -42,5 +42,5 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  github        = "https://github.com/andrew-werner"
-  instagram     = "https://instagram.com/croatian_andrew"
+  github        = "https://github.com/"
+  instagram     = "https://instagram.com/"
